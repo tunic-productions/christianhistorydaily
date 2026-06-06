@@ -48,12 +48,14 @@
       padding: 96px 32px 64px;
     }
 
-    /* Hero */
+    /* Hero — app icon, centered, with iOS-style squircle corners */
     .hero-image {
       display: block;
       width: 100%;
+      max-width: 320px;
       height: auto;
       margin: 0 auto 56px;
+      border-radius: 22.4%;
     }
 
     h1.wordmark {
@@ -150,6 +152,7 @@
         padding: 56px 24px 48px;
       }
       .hero-image {
+        max-width: 240px;
         margin-bottom: 40px;
       }
       h1.wordmark {
@@ -183,9 +186,9 @@
     <img
       class="hero-image"
       src="assets/marketing-hero.png"
-      alt="Doré-style illustration from Christian History Daily"
-      width="720"
-      height="720">
+      alt="Christian History Daily app icon"
+      width="640"
+      height="640">
 
     <h1 class="wordmark">Christian History Daily</h1>
     <p class="subhead">The full human story of Christian history.</p>
