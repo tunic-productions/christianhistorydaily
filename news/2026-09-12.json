@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-12",
+  "stories": [
+    {
+      "id": "news-2026-09-12-women-more-satisfied-with-their-churches",
+      "headline": "Women more satisfied with their churches' efforts to help them understand the Bible, poll finds",
+      "summary": "Across the United States, a broad majority of people appreciate how local congregations foster personal faith and illuminate the sacred text. Still, reliance on religious communities and their shepherds is not uniform across the population. Trust in these institutions shifts noticeably between men and women, while also correlating with how regularly an individual spends time reading the Scriptures.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/news/women-more-satisfied-with-church-bible-engagement-efforts-poll.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-09T04:30:02.657Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-12-women-more-satisfied-with-their-churches.webp",
+      "localized": {
+        "es-419": {
+          "headline": "Las mujeres están más satisfechas con el esfuerzo de sus iglesias por ayudarlas a comprender la Biblia, según una encuesta",
+          "summary": "En todo Estados Unidos, una amplia mayoría de personas valora el modo en que las congregaciones locales fomentan la fe personal e iluminan el texto sagrado. Sin embargo, la confianza en las comunidades religiosas y en sus pastores no es uniforme en la población. Dicha confianza varía de forma notable entre hombres y mujeres, y además guarda relación con la frecuencia con que cada persona lee las Escrituras."
+        },
+        "pt-BR": {
+          "headline": "Mulheres estão mais satisfeitas com o apoio de suas igrejas para compreender a Bíblia, revela pesquisa",
+          "summary": "Nos Estados Unidos, a grande maioria das pessoas reconhece como as comunidades locais fortalecem a fé pessoal e ajudam a iluminar o texto sagrado. Mesmo assim, a confiança nas congregações e em seus pastores não é uniforme entre a população. Essa segurança varia de forma perceptível entre homens e mulheres, além de estar diretamente ligada à frequência com que cada pessoa se dedica à leitura das Escrituras."
+        }
+      }
+    }
+  ]
+}
