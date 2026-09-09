@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-10",
+  "stories": [
+    {
+      "id": "news-2026-09-10-faith-on-the-hill-catholic-members-of-co",
+      "headline": "Faith on the Hill: Catholic members of Congress share how faith shapes their lives and work",
+      "summary": "Broadcast journalist Erik Rosales met with a group of Catholic legislators in the United States Congress to explore the role of religion in their governance. The elected leaders reflected on how spiritual convictions guide their official responsibilities and everyday political choices. Their shared perspectives offer a thoughtful look at the integration of personal belief and national leadership.",
+      "publisher": "Catholic News Agency",
+      "sourceUrl": "https://www.ewtnnews.com/world/us/faith-on-the-hill-catholic-members-of-congress-share-how-faith-shapes-their-lives-and-work",
+      "category": "christian-world",
+      "publishedAt": "2026-09-09T04:28:27.918Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-10-faith-on-the-hill-catholic-members-of-co.webp",
+      "localized": {
+        "es-419": {
+          "headline": "La fe en el Capitolio: miembros católicos del Congreso comparten cómo la fe moldea sus vidas y su trabajo",
+          "summary": "El periodista Erik Rosales se reunió con un grupo de legisladores católicos en el Congreso de Estados Unidos para explorar el papel de la religión en sus funciones de gobierno. Los líderes electos reflexionaron sobre cómo sus convicciones espirituales guían sus responsabilidades oficiales y sus decisiones políticas cotidianas. Sus perspectivas compartidas ofrecen una mirada reflexiva a la integración de las creencias personales y el liderazgo nacional."
+        },
+        "pt-BR": {
+          "headline": "Fé no Capitólio: congressistas católicos contam como a fé molda suas vidas e seu trabalho",
+          "summary": "O jornalista Erik Rosales se reuniu com um grupo de congressistas católicos no Congresso dos Estados Unidos para explorar o papel da religião em sua atuação pública. Os líderes eleitos refletiram sobre como suas convicções espirituais guiam suas responsabilidades oficiais e as decisões políticas do dia a dia. As perspectivas compartilhadas trazem um olhar sensível e profundo sobre a união entre a fé pessoal e a liderança nacional."
+        }
+      }
+    }
+  ]
+}
