@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-16",
+  "stories": [
+    {
+      "id": "news-2026-09-16-church-mistaken-for-jp-miller-s-church-a",
+      "headline": "Church mistaken for JP Miller’s church after Netflix series faces protests, backlash",
+      "summary": "A local congregation in South Carolina is facing demonstrations and an influx of angry messages after being mistaken for a different fellowship. The controversy follows a streaming docuseries centered on the passing of a coastal minister’s spouse. Though entirely uninvolved with that Myrtle Beach leader, the church is now fielding intense public outrage intended for someone else.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/news/church-mistaken-for-jp-millers-church-after-netflix-series.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-09T04:35:58.741Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-16-church-mistaken-for-jp-miller-s-church-a.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "Igreja confundida com a de JP Miller após série da Netflix enfrenta protestos e revolta",
+          "summary": "Uma congregação local na Carolina do Sul tem enfrentado manifestações e uma enxurrada de mensagens de ódio após ser confundida com outra comunidade de fé. A polêmica começou depois do lançamento de uma série documental em streaming sobre a morte da esposa de um pastor do litoral. Mesmo sem qualquer ligação com esse líder de Myrtle Beach, a igreja agora precisa lidar com a intensa revolta do público voltada a outra pessoa."
+        },
+        "es-419": {
+          "headline": "Iglesia confundida con la de JP Miller tras una serie de Netflix enfrenta protestas y rechazo",
+          "summary": "Una congregación local de Carolina del Sur enfrenta manifestaciones y una oleada de mensajes airados tras ser confundida con otra comunidad. La controversia surge a raíz de una docuserie emitida en streaming centrada en el fallecimiento de la esposa de un pastor de la costa. Aunque no tiene ninguna relación con ese líder de Myrtle Beach, la iglesia ahora debe lidiar con una intensa indignación pública dirigida a otra persona."
+        }
+      }
+    }
+  ]
+}
