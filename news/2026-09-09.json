@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-09",
+  "stories": [
+    {
+      "id": "news-2026-09-09-young-orthodox-christians-take-part-in-a",
+      "headline": "Young Orthodox Christians take part in a lights procession in Romania’s capital",
+      "summary": "The Romanian capital served as the backdrop for the eighth global assembly dedicated to Orthodox youth. Over the course of four days, participants engaged in an itinerary of events that included an illuminated walk through the streets of Bucharest. The radiant march offered attendees a visible, shared celebration of their faith.",
+      "publisher": "Religion News Service",
+      "sourceUrl": "https://religionnews.com/2026/09/08/young-orthodox-christians-take-part-in-a-lights-procession-in-romanias-capital/",
+      "category": "christian-world",
+      "publishedAt": "2026-09-09T04:25:04.119Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-09-young-orthodox-christians-take-part-in-a.webp",
+      "localized": {
+        "es-419": {
+          "headline": "Jóvenes cristianos ortodoxos participan en una procesión de luces en la capital de Rumania",
+          "summary": "La capital rumana sirvió de escenario para la octava asamblea mundial dedicada a la juventud ortodoxa. A lo largo de cuatro días, los participantes cumplieron un programa de actividades que incluyó una caminata iluminada por las calles de Bucarest. La luminosa marcha ofreció a los asistentes una celebración visible y compartida de su fe."
+        },
+        "pt-BR": {
+          "headline": "Jovens cristãos ortodoxos participam de procissão luminosa na capital da Romênia",
+          "summary": "A capital romena serviu de cenário para a oitava assembleia mundial dedicada à juventude ortodoxa. Ao longo de quatro dias, os participantes acompanharam uma programação de eventos que incluiu uma caminhada luminosa pelas ruas de Bucareste. A marcha radiante proporcionou a todos uma celebração visível e compartilhada de sua fé."
+        }
+      }
+    }
+  ]
+}
