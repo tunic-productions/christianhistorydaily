@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-19",
+  "stories": [
+    {
+      "id": "news-2026-09-19-couple-marries-in-flooded-church-after-m",
+      "headline": "Couple marries in flooded church after monsoon in Philippines; bride walks the aisle in waist-deep water",
+      "summary": "Heavy seasonal rains left a church in the Philippines submerged, yet one couple chose not to postpone their wedding day. Clad in white, the bride traversed waist-high water down the sanctuary aisle to join her groom. Surrounded by the deluge, the pair completed their ceremony and pledged their lifelong commitment to one another.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/news/couple-ties-knot-in-flooded-philippines-church-after-monsoon.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-09T04:40:05.184Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-19-couple-marries-in-flooded-church-after-m.webp",
+      "localized": {
+        "es-419": {
+          "headline": "Una pareja se casa en una iglesia inundada tras un monzón en Filipinas; la novia camina hacia el altar con el agua hasta la cintura",
+          "summary": "Las fuertes lluvias de la temporada dejaron sumergida una iglesia en Filipinas; aun así, una pareja decidió no posponer el día de su boda. Vestida de blanco, la novia avanzó con el agua hasta la cintura por el pasillo del templo para reunirse con su prometido. Rodeados por la inundación, ambos celebraron su ceremonia y sellaron su compromiso mutuo de por vida."
+        },
+        "pt-BR": {
+          "headline": "Casal se casa em igreja alagada após monção nas Filipinas; noiva caminha até o altar com água na cintura",
+          "summary": "Fortes chuvas sazonais deixaram uma igreja submersa nas Filipinas, mas um casal decidiu não adiar o grande dia. Vestida de branco, a noiva atravessou a água na altura da cintura pelo corredor central até encontrar o noivo. Em meio ao alagamento, os dois concluíram a cerimônia e selaram seus votos de compromisso para a vida inteira."
+        }
+      }
+    }
+  ]
+}
