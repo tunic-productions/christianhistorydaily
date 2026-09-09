@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-11",
+  "stories": [
+    {
+      "id": "news-2026-09-11-after-9-11-america-lost-its-way-twenty-f",
+      "headline": "After 9/11, America lost its way. Twenty-five years later, we still haven’t found it.",
+      "summary": "Shared sorrow briefly drew the American public together in the immediate wake of September 11. Over the following quarter-century, however, that sense of unity was overtaken by an enduring desire for retaliation that has yet to subside. Decades after the tragedy, the country remains adrift, still searching for a way forward beyond the lingering impulse to repay harm with harm.",
+      "publisher": "Religion News Service",
+      "sourceUrl": "https://religionnews.com/2026/09/08/25-years-of-failure-from-9-11-to-the-present/",
+      "category": "christian-world",
+      "publishedAt": "2026-09-09T04:27:07.932Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-11-after-9-11-america-lost-its-way-twenty-f.webp",
+      "localized": {
+        "es-419": {
+          "headline": "Tras el 11 de septiembre, Estados Unidos perdió el rumbo. Veinticinco años después, aún no lo hemos encontrado",
+          "summary": "Inmediatamente después del 11 de septiembre, el dolor compartido unió por un breve tiempo a la sociedad estadounidense. Sin embargo, a lo largo del siguiente cuarto de siglo, ese sentido de unidad se vio superado por un persistente deseo de represalia que todavía no se disipa. Décadas después de la tragedia, el país continúa a la deriva, buscando aún un camino hacia adelante más allá del arraigado impulso de devolver mal por mal."
+        },
+        "pt-BR": {
+          "headline": "Após o 11 de Setembro, os Estados Unidos perderam o rumo. Vinte e cinco anos depois, ainda não o encontramos",
+          "summary": "Logo após o 11 de Setembro, a dor compartilhada uniu brevemente o povo americano. Ao longo do quarto de século seguinte, porém, esse sentimento de unidade cedeu lugar a um persistente desejo de retaliação que ainda não arrefeceu. Décadas após a tragédia, o país segue à deriva, ainda em busca de um caminho que vá além do impulso constante de pagar o mal com o mal."
+        }
+      }
+    }
+  ]
+}
