@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-15",
+  "stories": [
+    {
+      "id": "news-2026-09-15-mapped-the-largest-religion-in-every-cou",
+      "headline": "Mapped: The Largest Religion in Every Country",
+      "summary": "A global cartographic breakdown illustrates the dominant faith tradition within every nation across the world. By displaying territorial patterns of spiritual affiliation, this visual presentation highlights where diverse communities, including Christian populations, form demographic majorities today. It provides believers with an informative overview of modern religious geography.",
+      "publisher": "Voronoi by Visual Capitalist",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOT2NPdnBVaWlVYU9FSWtWQ2RoQXZueFNZMjljUUhnVmtFbHRpRk00OEU0aHR5UFRFamRTSGo2ZG1Ib2wyVmtrUThLb0p6b1cyY1ctRHRnbTZjQ2NmZEhidXpFM041QlJZMW54V0lXMnlYNDJKU1Bhcmstb2ExUjVkeFpJWEtMYW1IdTNuWER2Nmpodjg?oc=5",
+      "category": "christian-world",
+      "publishedAt": "2026-09-09T04:34:28.374Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-15-mapped-the-largest-religion-in-every-cou.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "No mapa: a maior religião de cada país – Voronoi da Visual Capitalist",
+          "summary": "Um panorama cartográfico global ilustra a tradição de fé predominante em cada nação do mundo. Ao exibir os padrões territoriais de pertença espiritual, essa apresentação visual destaca onde diferentes comunidades, incluindo as populações cristãs, formam maiorias demográficas hoje. O estudo oferece aos fiéis uma visão clara e informativa sobre a geografia religiosa contemporânea."
+        },
+        "es-419": {
+          "headline": "En un mapa: la religión mayoritaria en cada país - Voronoi de Visual Capitalist",
+          "summary": "Un análisis cartográfico global ilustra la tradición de fe predominante en cada nación del mundo. Al mostrar los patrones territoriales de afiliación espiritual, esta presentación visual destaca en qué lugares diversas comunidades, incluidas las poblaciones cristianas, conforman hoy mayorías demográficas. Brinda a los creyentes un panorama informativo sobre la geografía religiosa moderna."
+        }
+      }
+    }
+  ]
+}
