@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-17",
+  "stories": [
+    {
+      "id": "news-2026-09-17-what-we-can-learn-from-gaza-s-christians",
+      "headline": "What we can learn from Gaza’s Christians",
+      "summary": "Believers native to Gaza increasingly find themselves treated as mere outsiders by their neighbors. One resident describes how hardline teaching spreads from pulpits into everyday classrooms, placing immense pressure on the population. Consequently, one of the territory's earliest and most enduring bodies of faith faces the risk of complete disappearance.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/voices/what-we-can-learn-from-gazas-christians.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-09T04:37:06.395Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-17-what-we-can-learn-from-gaza-s-christians.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "O que podemos aprender com os cristãos de Gaza",
+          "summary": "Os cristãos nativos de Gaza se veem cada vez mais tratados como meros forasteiros por seus vizinhos. Um morador descreve como ensinamentos extremistas se espalham dos púlpitos para as salas de aula do dia a dia, exercendo imensa pressão sobre a população. Diante disso, uma das mais antigas e resilientes comunidades de fé do território corre o risco de desaparecer completamente."
+        },
+        "es-419": {
+          "headline": "Lo que podemos aprender de los cristianos de Gaza",
+          "summary": "Los creyentes nativos de Gaza se ven cada vez más tratados como meros forasteros por sus vecinos. Un residente describe cómo la enseñanza de línea dura se extiende desde los púlpitos hasta las aulas cotidianas, ejerciendo una inmensa presión sobre la población. En consecuencia, una de las comunidades de fe más antiguas y perdurables del territorio corre el riesgo de desaparecer por completo."
+        }
+      }
+    }
+  ]
+}
