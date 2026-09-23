@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-28",
+  "stories": [
+    {
+      "id": "news-2026-09-28-dallas-jenkins-reveals-the-chosen-christ",
+      "headline": "Dallas Jenkins reveals ‘The Chosen’ Christmas special ‘The Three Kings’",
+      "summary": "Dallas Jenkins, the director behind *The Chosen*, recently shared plans to revisit the events of Jesus' birth this winter. A separate television program titled *The Three Kings* will highlight the holiday narrative for viewers. The production is scheduled for a nationwide broadcast across Fox stations this coming December.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/news/dallas-jenkins-reveals-the-chosen-christmas-special.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-23T02:41:12.082Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-28-dallas-jenkins-reveals-the-chosen-christ.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "Dallas Jenkins revela especial de Natal de 'The Chosen', intitulado 'The Three Kings'",
+          "summary": "Dallas Jenkins, o criador e diretor de The Chosen, compartilhou recentemente seus planos de revisitar os acontecimentos do nascimento de Jesus no final deste ano. Um especial de televisão independente, intitulado The Three Kings, destacará a história natalina para o público. A produção tem exibição prevista para dezembro em rede nacional pelas emissoras da Fox nos Estados Unidos."
+        },
+        "es-419": {
+          "headline": "Dallas Jenkins revela el especial de Navidad de The Chosen: The Three Kings",
+          "summary": "Dallas Jenkins, el director de The Chosen, compartió recientemente sus planes de retomar los acontecimientos del nacimiento de Jesús este invierno. Un programa de televisión independiente titulado The Three Kings presentará este relato navideño a los televidentes. La producción está programada para transmitirse a nivel nacional en las estaciones de Fox este próximo diciembre."
+        }
+      }
+    }
+  ]
+}
