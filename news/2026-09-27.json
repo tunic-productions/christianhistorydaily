@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-27",
+  "stories": [
+    {
+      "id": "news-2026-09-27-new-ministry-tool-will-make-it-easier-to",
+      "headline": "New ministry tool will make it easier to share the Gospel with Deaf people",
+      "summary": "Two mission-focused organizations have teamed up to connect people who are deaf or experience hearing impairment with the Christian faith. Biblical content creator RevelationMedia joined the International Mission Board to introduce a global evangelistic tool. Their joint project seeks to ensure that the good news reaches non-hearing audiences across the globe.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/news/new-tool-will-make-it-easier-to-share-the-gospel-with-deaf-people.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-23T02:40:11.522Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-27-new-ministry-tool-will-make-it-easier-to.webp",
+      "localized": {
+        "es-419": {
+          "headline": "Nueva herramienta ministerial facilitará compartir el evangelio con personas sordas",
+          "summary": "Dos organizaciones enfocadas en las misiones se han unido para acercar a la fe cristiana a personas sordas o con discapacidad auditiva. El creador de contenido bíblico RevelationMedia se unió a International Mission Board para presentar una herramienta evangelística global. Su proyecto conjunto busca asegurar que las buenas nuevas lleguen a audiencias no oyentes en todo el mundo."
+        },
+        "pt-BR": {
+          "headline": "Nova ferramenta ministerial facilitará o compartilhamento do Evangelho com pessoas surdas",
+          "summary": "Duas organizações missionárias uniram forças para aproximar pessoas surdas ou com deficiência auditiva da fé cristã. A produtora de conteúdo bíblico RevelationMedia associou-se à International Mission Board para lançar uma ferramenta evangelística global. O projeto conjunto busca garantir que as boas-novas alcancem a comunidade surda em todo o mundo."
+        }
+      }
+    }
+  ]
+}
