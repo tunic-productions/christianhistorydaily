@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-29",
+  "stories": [
+    {
+      "id": "news-2026-09-29-fragments-of-medieval-gospel-of-st-mark",
+      "headline": "Fragments of medieval Gospel of St. Mark-turned-relic reunited after 7 centuries",
+      "summary": "Centuries after they were divided, three surviving portions of a sixth-century Gospel of Mark have been brought together for public viewing. The ancient pages, which believers once cherished as sacred devotional objects, had remained separated for seven hundred years. This special gathering allows onlookers to see the long-dispersed texts side by side at last.",
+      "publisher": "Catholic News Agency",
+      "sourceUrl": "https://www.ewtnnews.com/vatican/fragments-of-medieval-gospel-of-st-mark-turned-relic-reunited-after-7-centuries",
+      "category": "christian-world",
+      "publishedAt": "2026-09-23T02:42:12.932Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-29-fragments-of-medieval-gospel-of-st-mark.webp",
+      "localized": {
+        "es-419": {
+          "headline": "Fragmentos de un Evangelio de san Marcos medieval convertido en reliquia se reúnen tras 7 siglos",
+          "summary": "Siglos después de haber sido divididas, tres partes conservadas de un Evangelio de Marcos del siglo VI se han reunido para su exhibición pública. Las antiguas páginas, que los creyentes alguna vez atesoraron como sagrados objetos de devoción, habían permanecido separadas durante setecientos años. Este encuentro especial permite a los visitantes ver por fin, uno junto al otro, los textos largo tiempo dispersos."
+        },
+        "pt-BR": {
+          "headline": "Fragmentos de Evangelho medieval de São Marcos transformado em relíquia são reunidos após 7 séculos",
+          "summary": "Séculos após terem sido divididos, três trechos sobreviventes de um Evangelho de Marcos do século VI foram reunidos para exibição pública. As páginas antigas, que os fiéis outrora veneravam como objetos sagrados de devoção, permaneceram separadas por setecentos anos. Esse reencontro especial permite aos visitantes contemplar lado a lado, enfim, os textos que ficaram dispersos por tanto tempo."
+        }
+      }
+    }
+  ]
+}
