@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-25",
+  "stories": [
+    {
+      "id": "news-2026-09-25-from-hip-hop-psalms-to-the-ten-commandme",
+      "headline": "From Hip-hop Psalms to the Ten Commandments in Jazz: AI turns entire Bible into 30,000 songs – without changing a word",
+      "summary": "A technological endeavor has transformed the complete Christian scriptures into tens of thousands of distinct audio tracks using artificial intelligence. The expansive collection spans varied genres, setting sacred passages to everything from jazz melodies to hip-hop beats. Across all thirty thousand recordings, the text remains entirely unaltered, pairing ancient scripture with modern digital composition.",
+      "publisher": "Religion News Service",
+      "sourceUrl": "https://religionnews.com/2026/09/22/from-hip-hop-psalms-to-the-ten-commandments-in-jazz-ai-turns-entire-bible-into-30000-songs-without-changing-a-word/",
+      "category": "christian-world",
+      "publishedAt": "2026-09-23T02:37:34.118Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-25-from-hip-hop-psalms-to-the-ten-commandme.webp",
+      "localized": {
+        "es-419": {
+          "headline": "De los salmos en hip-hop a los Diez Mandamientos en jazz: la IA convierte toda la Biblia en 30 000 canciones, sin cambiar una sola palabra",
+          "summary": "Un proyecto tecnológico ha transformado la totalidad de las Escrituras cristianas en decenas de miles de pistas de audio distintas mediante inteligencia artificial. La amplia colección abarca diversos géneros y musicaliza los pasajes sagrados con estilos que van desde melodías de jazz hasta ritmos de hip-hop. A lo largo de las treinta mil grabaciones, el texto se mantiene completamente inalterado, uniendo las antiguas escrituras con la composición digital moderna."
+        },
+        "pt-BR": {
+          "headline": "De salmos em hip-hop aos Dez Mandamentos em jazz: IA transforma a Bíblia inteira em 30 mil músicas – sem alterar uma só palavra",
+          "summary": "Uma iniciativa tecnológica transformou todas as Escrituras Sagradas em dezenas de milhares de faixas de áudio distintas por meio de inteligência artificial. A vasta coleção abrange os mais diversos gêneros, embalando passagens sagradas em melodias que vão do jazz às batidas de hip-hop. Em todas as trinta mil gravações, o texto bíblico permanece totalmente inalterado, unindo os escritos da antiguidade à moderna composição digital."
+        }
+      }
+    }
+  ]
+}
