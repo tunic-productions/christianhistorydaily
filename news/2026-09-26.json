@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-26",
+  "stories": [
+    {
+      "id": "news-2026-09-26-brad-pitt-says-heart-of-the-beast-honors",
+      "headline": "Brad Pitt says 'Heart of the Beast' honors military, sacrificial love",
+      "summary": "Actor Brad Pitt has offered insight into his latest cinematic project, *Heart of the Beast*. He shared that the production aims to pay tribute to service members in uniform. In discussing the project's central themes, Pitt emphasized how the story portrays the profound strength found in giving of oneself completely for the sake of others.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/video/brad-pitt-says-heart-of-the-beast-honors-military.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-23T02:38:52.506Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-26-brad-pitt-says-heart-of-the-beast-honors.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "Brad Pitt diz que 'Heart of the Beast' homenageia militares e o amor sacrificial",
+          "summary": "O ator Brad Pitt compartilhou detalhes sobre seu mais recente projeto cinematográfico, *Heart of the Beast*. Ele revelou que a produção busca prestar uma homenagem aos militares de farda. Ao comentar os temas centrais do filme, Pitt destacou como a história retrata a profunda força que existe em se doar por inteiro pelo próximo."
+        },
+        "es-419": {
+          "headline": "Brad Pitt afirma que 'Heart of the Beast' honra a los militares y al amor sacrificial",
+          "summary": "El actor Brad Pitt compartió detalles sobre su proyecto cinematográfico más reciente, 'Heart of the Beast'. Explicó que la producción busca rendir homenaje a los miembros de las fuerzas armadas. Al abordar los temas centrales del proyecto, Pitt destacó cómo la historia retrata la profunda fortaleza que nace de entregarse por completo por el bien de los demás."
+        }
+      }
+    }
+  ]
+}
