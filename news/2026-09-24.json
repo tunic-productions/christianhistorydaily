@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-09-24",
+  "stories": [
+    {
+      "id": "news-2026-09-24-two-christian-schools-reopen-in-syria-af",
+      "headline": "Two Christian schools reopen in Syria after decades of closure",
+      "summary": "A pair of educational facilities overseen by the Franciscan Custody have returned to active service within the Idlib province of Syria. Having stood shuttered for multiple decades, both sites were formally rededicated to resume their teaching work. The milestone marks a gentle restoration of Christian institutional life in a region where such doors had long remained closed.",
+      "publisher": "Vatican News",
+      "sourceUrl": "https://www.vaticannews.va/en/church/news/2026-09/two-christian-schools-reopen-syria-knaye-yacoubieh-franciscan.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-23T02:35:47.911Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-09-24-two-christian-schools-reopen-in-syria-af.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "Duas escolas cristãs reabrem na Síria após décadas fechadas",
+          "summary": "Duas instituições de ensino mantidas pela Custódia Franciscana retomaram suas atividades na província de Idlib, na Síria. Após permanecerem fechados por várias décadas, ambos os espaços foram solenemente rededicados para retomar sua missão educativa. O marco assinala uma serena restauração da presença institucional cristã em uma região onde essas portas estiveram cerradas por tanto tempo."
+        },
+        "es-419": {
+          "headline": "Dos escuelas cristianas reabren en Siria tras décadas de cierre",
+          "summary": "Dos centros educativos a cargo de la Custodia franciscana han vuelto a prestar servicio en la provincia de Idlib, en Siria. Tras permanecer clausuradas durante varias décadas, ambas instalaciones fueron rededicadas formalmente para reanudar su labor docente. Este hito marca una discreta restauración de la vida institucional cristiana en una región donde dichas puertas habían permanecido cerradas por mucho tiempo."
+        }
+      }
+    }
+  ]
+}
