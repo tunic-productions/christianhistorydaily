@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-03",
+  "stories": [
+    {
+      "id": "news-2026-10-03-4-scandalous-women-in-jesus-family-tree",
+      "headline": "4 scandalous women in Jesus' family tree and what they reveal",
+      "summary": "Lineages recorded throughout antiquity routinely ignored female figures. Breaking sharply with standard convention, the Gospel of Matthew intentionally includes four women marked by public controversy in Christ's ancestry. Rather than an accidental footnote, their presence serves as a purposeful statement at the very start of the narrative.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/voices/4-scandalous-women-in-jesus-family-tree-and-what-they-reveal.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-28T03:32:00.891Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-10-03-4-scandalous-women-in-jesus-family-tree.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "4 mulheres escandalosas na genealogia de Jesus e o que elas revelam",
+          "summary": "As genealogias registradas na Antiguidade costumavam ignorar figuras femininas. Rompendo bruscamente com as convenções da época, o Evangelho de Mateus inclui intencionalmente quatro mulheres marcadas por controvérsias públicas na linhagem de Cristo. Longe de ser uma nota de rodapé acidental, a presença delas funciona como uma declaração proposital logo no início da narrativa."
+        },
+        "es-419": {
+          "headline": "4 mujeres escandalosas en el árbol genealógico de Jesús y lo que revelan",
+          "summary": "Las genealogías de la antigüedad solían ignorar sistemáticamente a las figuras femeninas. Rompiendo de lleno con esa costumbre, el Evangelio de Mateo incluye de forma intencional a cuatro mujeres marcadas por la controversia pública en la ascendencia de Cristo. Lejos de ser una nota accidental al pie, su presencia constituye una declaración con propósito desde el inicio mismo del relato."
+        }
+      }
+    }
+  ]
+}
