@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-01",
+  "stories": [
+    {
+      "id": "news-2026-10-01-this-week-in-christian-history-megachurc",
+      "headline": "This week in Christian history: Megachurch dedicates a 62-foot statue of Jesus; Damasus becomes pope",
+      "summary": "A wide span of church heritage converges on this calendar week. Notable moments range from Damasus stepping into the papacy to Charles Finney falling severely ill with cholera. Contemporary faith adds to the timeline as well, highlighted by a congregation formally unveiling a colossal monument honoring the Savior.",
+      "publisher": "The Christian Post",
+      "sourceUrl": "https://www.christianpost.com/news/this-week-in-christian-history-lux-mundi-statue-dedicated.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-28T03:29:35.346Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-10-01-this-week-in-christian-history-megachurc.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "Nesta semana na história cristã: megaigreja inaugura estátua de 19 metros de Jesus; Dâmaso assume o papado",
+          "summary": "Um vasto panorama do legado da igreja se encontra nesta semana do calendário. Momentos marcantes vão desde a chegada de Dâmaso ao papado até Charles Finney adoecendo gravemente de cólera. A fé contemporânea também enriquece essa linha do tempo, com destaque para uma congregação inaugurando oficialmente um monumento colossal em honra ao Salvador."
+        },
+        "es-419": {
+          "headline": "Esta semana en la historia cristiana: una megaiglesia dedica una estatua de Jesús de 62 pies; Dámaso se convierte en papa",
+          "summary": "Un amplio recorrido por la historia de la Iglesia converge en esta semana del calendario. Entre los momentos destacados se encuentran desde la llegada de Dámaso al papado hasta cuando Charles Finney enfermó gravemente de cólera. La fe contemporánea también se suma a esta cronología, marcada por una congregación que inauguró formalmente un monumento colosal en honor al Salvador."
+        }
+      }
+    }
+  ]
+}
