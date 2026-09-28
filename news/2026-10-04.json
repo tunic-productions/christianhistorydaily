@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-04",
+  "stories": [
+    {
+      "id": "news-2026-10-04-lord-s-day-reflection-actions-speak-loud",
+      "headline": "Lord's Day Reflection: Actions speak louder than words",
+      "summary": "For the twenty-sixth weekend of the Church's liturgical calendar, Father Edmund Power offers a meditation centered on putting faith into practice. His commentary underscores that concrete behavior carries far more significance than mere speech. This pastoral reflection highlights the enduring Christian call to demonstrate one's convictions through tangible conduct rather than empty promises.",
+      "publisher": "Vatican News",
+      "sourceUrl": "https://www.vaticannews.va/en/church/news/2026-09/gospel-reflection-twenty-sixth-sunday-ordinary-time.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-28T03:34:06.700Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-10-04-lord-s-day-reflection-actions-speak-loud.webp",
+      "localized": {
+        "pt-BR": {
+          "headline": "Reflexão para o Dia do Senhor: ações valem mais que palavras",
+          "summary": "Para o vigésimo sexto fim de semana do calendário litúrgico da Igreja, o padre Edmund Power propõe uma meditação centrada em colocar a fé em prática. Seu comentário destaca que atitudes concretas têm muito mais valor do que meras palavras. Esta reflexão pastoral reforça o permanente chamado cristão para demonstrar convicções por meio de ações tangíveis, e não de promessas vazias."
+        },
+        "es-419": {
+          "headline": "Reflexión del Día del Señor: las acciones hablan más que las palabras",
+          "summary": "Para el vigesimosexto fin de semana del calendario litúrgico de la Iglesia, el padre Edmund Power ofrece una meditación centrada en poner la fe en práctica. Su comentario subraya que la conducta concreta tiene mucho más valor que las meras palabras. Esta reflexión pastoral destaca el permanente llamado cristiano a demostrar las convicciones mediante hechos tangibles en lugar de promesas vacías."
+        }
+      }
+    }
+  ]
+}
