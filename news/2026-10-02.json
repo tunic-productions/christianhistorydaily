@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "date": "2026-10-02",
+  "stories": [
+    {
+      "id": "news-2026-10-02-christians-are-companions-on-journey-for",
+      "headline": "Christians are companions on journey for the wounded and lonely",
+      "summary": "Following Pope Leo XIV’s address in France, Vatican media highlighted a call for believers worldwide to embrace an outward-facing faith. The pontiff encouraged congregations to walk alongside hurting, isolated individuals with deep personal warmth. Rather than retreating from modern society, local churches are asked to engage today’s world through sincere care and shared fellowship.",
+      "publisher": "Vatican News",
+      "sourceUrl": "https://www.vaticannews.va/en/vatican-city/news/2026-09/editorial-tornielli-pope-leo-xiv-lourdes-france-sick-lonely.html",
+      "category": "christian-world",
+      "publishedAt": "2026-09-28T03:30:49.773Z",
+      "imageUrl": "https://christianhistorydaily.com/news/img/news-2026-10-02-christians-are-companions-on-journey-for.webp",
+      "localized": {
+        "es-419": {
+          "headline": "Los cristianos son compañeros de camino para los heridos y solitarios",
+          "summary": "Tras el discurso del papa León XIV en Francia, los medios vaticanos destacaron un llamado a los creyentes de todo el mundo a vivir una fe abierta hacia el exterior. El pontífice alentó a las congregaciones a caminar junto a las personas heridas y aisladas con profunda calidez personal. En lugar de replegarse de la sociedad moderna, se pide a las iglesias locales que se acerquen al mundo actual mediante un cuidado sincero y la comunión compartida."
+        },
+        "pt-BR": {
+          "headline": "Cristãos são companheiros de caminhada para os feridos e solitários",
+          "summary": "Após o discurso do Papa Leão XIV na França, os meios de comunicação do Vaticano destacaram o chamado para que os fiéis no mundo todo abracem uma fé voltada para fora. O pontífice incentivou as comunidades a caminhar ao lado de pessoas feridas e isoladas, demonstrando profundo afeto e proximidade. Em vez de recuar diante da sociedade moderna, as igrejas locais são convidadas a se fazerem presentes no mundo atual por meio do cuidado sincero e da comunhão partilhada."
+        }
+      }
+    }
+  ]
+}
